@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**m4nishh/m4nishh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# MANISH KUMAR
+
+### Backend Engineer | Bug Creator | Bug Fixer
+
+</div>
+
+
+
+<div align="center">
+
+```bash
+System Online
+
+Coffee/Diet-Coke Level: Stable
+
+Production Status: Unknown
+
+Developer Status: Surviving
+```
+
+### Thanks for visiting.
+
+```bash
+$ exit
+
+Goodbye 👋
+```
+
+</div>
